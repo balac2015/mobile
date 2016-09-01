@@ -1,5 +1,5 @@
 简介
-
+（https://github.com/ericdum/mujiang.info/issues/6/）
 本文档有所有package.json中必要的配置。它必须是真正的json，而不是js对象。
 
 本文档中描述的很多行为都受npm-config(7)的影响。
